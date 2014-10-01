@@ -66,3 +66,11 @@ code {
 .content .by {
   font-weight: bold;
 }
+
+#name {
+  font-weight:bold;
+}
+
+.col-md-9 li {
+  list-style: none;
+}
